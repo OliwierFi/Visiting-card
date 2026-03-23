@@ -20,11 +20,10 @@
 
 ## Projects
 - **[Crypto-CPP](link)** - Implementation of cryptographic algorithms in C++.
-- **[Web-Security](link)** - PortSwigger Web Security Academy lab solutions.
-- **[CyberBastion](link)** - Participation in national cybersecurity competitions.
+
 
 ---
 
 ## Contact
 - Email: fijalkowskioliwier@gmail.com
-- LinkedIn: [oliwier-fijałkowski](https://www.linkedin.com/in/oliwier-fija%C5%82kowski)
+- LinkedIn: [oliwier-fijałkowski](https://www.linkedin.com/in/oliwier-fija%C5%82kowski-0b3756318/)
