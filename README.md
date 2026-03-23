@@ -13,13 +13,13 @@
 
 ## Skills & Tools
 - **Security:** OWASP Top 10, Burp Suite Professional, Kali Linux
-- **Technical:** C/C++, Bash, SQL, Networking (CCNA in progress)
+- **Technical:** C/C++, Bash, SQL, Networking (CCNA in progress), JS (in progress) 
 - **Certificates:** CAE (C1), Google Cybersecurity Professional (in progress)
 
 ---
 
 ## Projects
-- **[Crypto-CPP](link)** - Implementation of cryptographic algorithms in C++.
+- **[Crypto-CPP]([link](https://github.com/OliwierFi/Skaner-Podatno-ci-API-C-))** - Implementation of cryptographic algorithms in C++.
 
 
 ---
