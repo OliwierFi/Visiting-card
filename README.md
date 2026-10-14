@@ -20,6 +20,8 @@
 
 ## Projects
 - **[Crypto-CPP]([link](https://github.com/OliwierFi/Skaner-Podatno-ci-API-C-))** - Implementation of cryptographic algorithms in C++.
+- **Honeypot (Linux based honeypot, SIEMM/SOC Homelab) - with implementation of Wazuh Agent. Inprogress
+- **
 
 
 ---
